@@ -1,3 +1,4 @@
+import './ShowCount.css'
 import { useState } from 'react'
 
 const ShowCount = () => {
